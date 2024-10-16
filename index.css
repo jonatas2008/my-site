@@ -15,4 +15,8 @@ ul {
 a {
     color: white;
     text-decoration: none;
-    }
+}
+
+img {
+    width: 150px;
+}
